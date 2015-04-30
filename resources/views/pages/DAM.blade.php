@@ -27,19 +27,20 @@
 	
 	  <div class="list-group"> 
 
-            <a href="#" class="list-group-item">Records Management</a> 
+            <a href="RecordsMgt" class="list-group-item ">Records Management</a> 
 
-            <a href="#" class="list-group-item">Electronic Doocument Management</a> 
+            <a href="Edm" class="list-group-item">Electronic Doocument Management</a> 
 
-            <a href="#" class="list-group-item">Compliance Management</a> 
+            <a href="ComplianceMgt" class="list-group-item">Compliance Management</a> 
 
-            <a href="#" class="list-group-item active">Document Archiving</a> 
+            <a href="DAM" class="list-group-item active">Document Archiving</a> 
 
-            <a href="#" class="list-group-item">Cloud Solution & Data Backup</a> 
+            <a href="CSoln_DataBackup" class="list-group-item">Cloud Solution & Data Backup</a> 
 	
 	    </div> 
 
     </div>
+    
     
     
 </div>

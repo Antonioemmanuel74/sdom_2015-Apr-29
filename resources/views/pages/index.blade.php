@@ -26,23 +26,24 @@
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <div class="fill" id="fill_1" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                <div class="fill" style="background-image:url('http://www.clarksarchivestorage.com/wp-content/uploads/2012/07/MG_9938.jpg'); background-repeat:no-repeat; background-size:cover;"></div>
                 <div class="carousel-caption">
-                    <h2>Caption 1</h2>
+                    <h2>Secure Records Storage is an ideal solution for organizations that need to store, protect and manage their information.</h2>
                 </div>
             </div>
             <div class="item">
                 <!-- Set the second background image using inline CSS below. -->
-                <div class="fill" id="fill_2" style="background-image:url('http://placehold.it/1900x1080&text=Slide two');"></div>
+                <div class="fill" id="fill_2" style="background-image:url('http://www.optometricmanagement.com/content/archive/2013/august/images/om_august_a07_fig01.jpg');  "></div>
                 <div class="carousel-caption">
-                    <h2>Caption 2</h2>
+                    <h2>SOLUTIONS THAT YOU NEED!</h2><h4> Electronic Document Management</h4>
+			<h4><a href="Edm">More</a></h4>
                 </div>
             </div>
             <div class="item">
                 <!-- Set the third background image using inline CSS below. -->
-                <div class="fill" id="fill_3" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                <div class="fill" id="fill_3" style="background-image:url('http://tricountyrecycling.webs.com/secure-paper-shredding.jpg');background-repeat:no-repeat; background-size:cover;"></div>
                 <div class="carousel-caption">
-                    <h2>Caption 3</h2>
+                    <h2>Providing Secure Information Destruction Service</h2>
                 </div>
             </div>
         </div>
@@ -55,7 +56,7 @@
             <span class="icon-next"></span>
         </a>
 	    
-	    <img src="C:/xampp/htdocs/sdom/public/includes/images/logo.jpg">
+	    
 	        </div>
 <!-- End Of 1st section -->
 
@@ -68,7 +69,7 @@
             
         </div>
             <h2><a href="solution" style="color: #115511;">Solutions</a></h2>
-            <a href="solution"><img src="C:/Users/emmanuel/Documents/GitHub/sdom/resources/views/images/solution.gif" width="340cm" height="100cm"></a>
+            <a href="solution"><img src="http://www.resourcesolutionsgroup.com.au/media/RSG/solutions.jpg" width="340cm" height="100cm"></a>
         <p>Square One Document Management (SODM) provides a full range of Document Management services including secure document storage - both box and files, off-site data protection, on-site secure shredding, scanning and image hosting, file tracking software solutions and consultancy services throughout Nigeria.</p>
 <p><a href="solution">Read More</a></p>
 
@@ -77,7 +78,9 @@
     <div class="col-sm-4">
        <div class="bar"></div>
         <a href="#"><h2>Why Choose Us</h2></a>
-        <div class="spac"></div>
+        <div class=""> <iframe width="380" height="150"
+src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1">
+</iframe></div>
        <p class="mar">Our service is truly personal because we combine our small business attitude with the stability of a major corporate company, meaning that every customer that requires our secure storage is treated as an individual.
     </p>
        <p><a href="#">Read More</a></p>
@@ -89,16 +92,16 @@
         <div class="max_tab">
        <a href="#"><div class="min_tab" >
         <h3 class="w_min_tab">Data Storage</h3>
-            <p>lorem ipsum lorem ipsum</p>
+            <p>Organisations cannot underestimate the importance of secure Document Management and data management procedures.</p>
        </div></a>
         
        <a href="#">  <div class="min_tab" >
         <h3 class="w_min_tab">Secure Shredding</h3>
-            <p>lorem ipsum lorem ipsum</p>
+            <p>With Square-one Secure Shredding services, you wll be able to safely and cost-effectively destroy unnecessary paper-based documents.</p>
        </div></a>
         <a href="#"> <div class="min_tab" >
         <h3 class="w_min_tab">Data Backup</h3>
-            <p>lorem ipsum lorem ipsum</p>
+            <p>Seperate your data from disaster with offsite tape vaulting and cloud backup services.</p>
        </div> </a>
 
            
