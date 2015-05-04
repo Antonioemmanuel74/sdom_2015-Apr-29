@@ -14,9 +14,8 @@
      
 <div class="row">
 <div class="col-md-9">
-<div class="jumbotron" style="margin-top:0.4cm; height:10cm;">
-    <h1>IMG</h1> 
-    <p> image holder</p> 
+<div class="jumbotron" id="finance">
+    
   </div>
     <p>about the company</p>
 	<p>about the company</p>
@@ -25,26 +24,26 @@
 </div>
     <div class="col-md-3" style="margin-top:0.4cm;">
 	
-	  <div class="list-group"> 
+	   <div class="list-group"> 
 
-            <a href="#" class="list-group-item ">Industry</a> 
+            <a href="Industry" class="list-group-item">Industry</a> 
 
-            <a href="#" class="list-group-item active">Finance</a> 
+            <a href="I_Finance" class="list-group-item active">Finance</a> 
 
-            <a href="#" class="list-group-item">Law Firm</a> 
+            <a href="I_LawFirm" class="list-group-item">Law Firm</a> 
 
-            <a href="#" class="list-group-item">Health Care</a> 
+            <a href="I_HealthCare" class="list-group-item ">Health Care</a> 
 
-            <a href="#" class="list-group-item">Manufacturing</a>
+            <a href="I_Manufacture" class="list-group-item">Manufacturing</a>
 		
-	    <a href="#" class="list-group-item">Academics</a> 
+	    <a href="I_Academics" class="list-group-item">Academics</a> 
 
-            <a href="#" class="list-group-item">Association</a> 
+            <a href="I_Association" class="list-group-item">Association</a> 
 
-            <a href="#" class="list-group-item">Government</a> 
+            <a href="I_Government" class="list-group-item">Government</a> 
 
-            <a href="#" class="list-group-item">Insurance</a>
-		<a href="#" class="list-group-item">Construction</a>
+            <a href="I_Insurance" class="list-group-item">Insurance</a>
+		<a href="I_Construction" class="list-group-item">Construction</a>
 	
 	    </div> 
 

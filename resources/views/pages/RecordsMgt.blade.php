@@ -14,7 +14,7 @@
 <div class="container" >
 <div class="row">
 <div class="col-md-9">
-<div class="jumbotron" style="margin-top:0.4cm; height:10cm; background-image:url('http://graphxsys.com/wp-content/uploads/2012/04/DOCUMENT_MANAGEMENT.gif'); background-size:cover;">
+<div class="jumbotron" id="record">
     
   </div>
     <p>Organisations cannot underestimate the importance of secure Document Management and data management procedures. In any business where records are being continually generated, their efficient storage and management represents a major challenge as can ensuring that the key people have easy access to the documents and information they need to make business decisions. But space can quickly become an issue and companies need to decide where space is best utilised - for storing information or to seat staff who help to grow the business? 

@@ -38,10 +38,10 @@
 		
                 				
                                                 
-<li ><a href="#">Customer Support</a></li>
+<li ><a href="C_CIC">Customer Support</a></li>
 <li style="color:black;">phone number</li>
-<li ><a href="#">Customer Information Center</a></li>
-<li ><a href="#">Support</a></li>
+<li ><a href="C_CIC">Customer Information Center</a></li>
+<li ><a href="support">Support</a></li>
 <li ><a href="#"></a></li>
 <li ><a href="#"></a></li>
 						</ul>
@@ -50,14 +50,14 @@
         <div class="col-md-2" style="color: white; text-align: left; margin-top: 50px; text-decoration: none;">
             <h4><a href="#" style="color: white; margin-left: 37px;">Services</a></h4>
 						<ul class="mi">
-		    <li class="#"><a href="#">Records Management</a></li>
-<li ><a href="#" >Information Management</a></li>
-<li ><a href="#">Secure Shereding</a></li>
-<li ><a href="#">Electronic Document Management</a></li>
-<li ><a href="#">Compliance Management</a></li>
-<li ><a href="#">Document Archiving</a></li>
-<li ><a href="#">Cloud Solution</a></li>
-<li ><a href="#">Data Backup</a></li>
+		    <li class="#"><a href="RecordsMgt">Records Management</a></li>
+<li ><a href="RecordsMgt" >Information Management</a></li>
+<li ><a href="SME_SecureShereding">Secure Shereding</a></li>
+<li ><a href="Edm">Electronic Document Management</a></li>
+<li ><a href="ComplainceMgt">Compliance Management</a></li>
+<li ><a href="DAM">Document Archiving</a></li>
+<li ><a href="CSoln_DataBackup">Cloud Solution</a></li>
+<li ><a href="CSoln_DataBackup">Data Backup</a></li>
 <li ><a href="#"></a></li>
 <li ><a href="#"></a></li>
 <li ><a href="#"></a></li>
@@ -69,14 +69,14 @@
             <h4><a href="#" style="color: white; margin-left: 37px;">Industry Solutions</a></h4>
             <ul class="mi">
     <li ><a href="#"></a></li>
-	<li ><a href="#" >Finance</a></li>
-<li ><a href="#">Law Firm</a></li>
-<li ><a href="#">Academics</a></li>
-<li ><a href="#">Insurance</a></li>
-<li ><a href="#">Health Care</a></li>
-<li ><a href="#">Construction</a></li>
-<li ><a href="#">Government</a></li>
-    <li ><a href="#">Manufacturing</a></li>    
+	<li ><a href="I_Finance" >Finance</a></li>
+<li ><a href="I_LawFirm">Law Firm</a></li>
+<li ><a href="I_Academics">Academics</a></li>
+<li ><a href="I_Insurance">Insurance</a></li>
+<li ><a href="I_HealthCare">Health Care</a></li>
+<li ><a href="I_Construction">Construction</a></li>
+<li ><a href="I_Government">Government</a></li>
+    <li ><a href="I_Manufacturing">Manufacturing</a></li>    
 						</ul>
         </div>
         
@@ -85,12 +85,10 @@
             
             <ul class="mi">
 							<li ><a href="#"></a></li>
-<li ><a href="#">About Us</a></li>
-<li ><a href="#">Contact Us</a></li>
-<li ><a href="#">Support</a></li>
-<li ><a href="#">Customer Information Center</a></li>
-<li ><a href="#">Careers at SODM</a></li>
-<li ><a href="#">News </a></li>
+<li ><a href="C_AboutUs">About Us</a></li>
+<li ><a href="C_ContactUs">Contact Us</a></li>
+<li ><a href="C_Support">Support</a></li>
+<li ><a href="C_CIC">Customer Information Center</a></li>
 						</ul>
         </div>
         

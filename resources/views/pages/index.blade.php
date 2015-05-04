@@ -9,9 +9,6 @@
 @include('include.header')
 <!-- End header -->
 <!--start divder -->
-<div class="divider">
-    
-</div>
 <!-- divider -->
 <!-- begin 1st swection -->
   <div id="myCarousel" class="carousel slide">
@@ -26,14 +23,14 @@
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('http://www.clarksarchivestorage.com/wp-content/uploads/2012/07/MG_9938.jpg'); background-repeat:no-repeat; background-size:cover;"></div>
+                <div class="fill" id="fill_1"></div>
                 <div class="carousel-caption">
                     <h2>Secure Records Storage is an ideal solution for organizations that need to store, protect and manage their information.</h2>
                 </div>
             </div>
             <div class="item">
                 <!-- Set the second background image using inline CSS below. -->
-                <div class="fill" id="fill_2" style="background-image:url('http://www.optometricmanagement.com/content/archive/2013/august/images/om_august_a07_fig01.jpg');  "></div>
+                <div class="fill" id="fill_2"></div>
                 <div class="carousel-caption">
                     <h2>SOLUTIONS THAT YOU NEED!</h2><h4> Electronic Document Management</h4>
 			<h4><a href="Edm">More</a></h4>
@@ -41,7 +38,7 @@
             </div>
             <div class="item">
                 <!-- Set the third background image using inline CSS below. -->
-                <div class="fill" id="fill_3" style="background-image:url('http://tricountyrecycling.webs.com/secure-paper-shredding.jpg');background-repeat:no-repeat; background-size:cover;"></div>
+                <div class="fill" id="fill_3"></div>
                 <div class="carousel-caption">
                     <h2>Providing Secure Information Destruction Service</h2>
                 </div>
@@ -69,7 +66,7 @@
             
         </div>
             <h2><a href="solution" style="color: #115511;">Solutions</a></h2>
-            <a href="solution"><img src="http://www.resourcesolutionsgroup.com.au/media/RSG/solutions.jpg" width="340cm" height="100cm"></a>
+            <a href="solution"><div class="soul"></div></a>
         <p>Square One Document Management (SODM) provides a full range of Document Management services including secure document storage - both box and files, off-site data protection, on-site secure shredding, scanning and image hosting, file tracking software solutions and consultancy services throughout Nigeria.</p>
 <p><a href="solution">Read More</a></p>
 

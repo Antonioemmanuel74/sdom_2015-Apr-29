@@ -28,19 +28,19 @@
 	
 	  <div class="list-group"> 
 
-            <a href="#" class="list-group-item active">Business Solution</a> 
+            <a href="BusinessSolution" class="list-group-item active">Business Solution</a> 
 
-            <a href="#" class="list-group-item">Accounts</a> 
+            <a href="BS_Account" class="list-group-item">Accounts</a> 
 
-            <a href="#" class="list-group-item ">Human Resources</a> 
+            <a href="BS_HumanResource" class="list-group-item ">Human Resources</a> 
 
-            <a href="#" class="list-group-item ">Legal Department</a> 
+            <a href="BS_LegalDept" class="list-group-item ">Legal Department</a> 
 
-            <a href="#" class="list-group-item ">Marketing</a>
+            <a href="BS_Marketing" class="list-group-item ">Marketing</a>
 		
-	    <a href="#" class="list-group-item">Operations</a> 
+	    <a href="BS_Operation" class="list-group-item">Operations</a> 
 
-            <a href="#" class="list-group-item">Procurement</a> 
+            <a href="BS_Procurement" class="list-group-item">Procurement</a> 
 
           
 	

@@ -27,16 +27,15 @@
     <div class="col-md-3" style="margin-top:0.4cm;">
 	
 	  <div class="list-group"> 
+	    <a href="Company" class="list-group-item ">Company</a> 
 
-            <a href="#" class="list-group-item ">Company</a> 
+            <a href="C_AboutUs" class="list-group-item">About Us</a> 
 
-            <a href="#" class="list-group-item">About Us</a> 
+            <a href="C_ContactUs" class="list-group-item">Contact Us</a> 
 
-            <a href="#" class="list-group-item">Contact Us</a> 
+            <a href="C_Support" class="list-group-item active">Support</a> 
 
-            <a href="#" class="list-group-item active">Support</a> 
-
-            <a href="#" class="list-group-item">Customer Information Center</a> 
+            <a href="C_CIC" class="list-group-item ">Customer Information Center</a> 
 	
 	    </div> 
 

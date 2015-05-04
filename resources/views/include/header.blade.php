@@ -2,14 +2,13 @@
 
 
     <!-- Site header and navigation -->
-<div class="container" style="" >
+<div class="container-fluid" style="" >
 <ul id="nav">
-    <a href="index" class="loog">
-    <a href="{{URL::to('/')}}"><img src={{asset('C:\xampp\htdocs\sdom\public\includes\images\logo.jpg')}} alt="Logo"></a>
-    
-    </a>
+    <li style="width:6.5cm;" ><a href="{{URL::to('/')}}"><div class="logo"></div></a></li>
 	<li><a href="service">Service</a>
-        <ul>    <li><a href="RecordsMgt">Records Management</a></li>
+        <ul>
+		
+		<li><a href="RecordsMgt">Records Management</a></li>
 		<li><a href="Edm">Electronic Document Management</a></li>
 		<li><a href="ComplianceMgt">Compliance Management</a></li>
                 <li><a href="DAM">Document Archiving + Management</a></li>
@@ -83,3 +82,4 @@
 	<li><a href="assesment">Self Assesment</a>
         
 </div>
+    <div class="divider"></div>

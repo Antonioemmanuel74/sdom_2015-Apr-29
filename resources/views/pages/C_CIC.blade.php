@@ -28,15 +28,15 @@
 	
 	  <div class="list-group"> 
 
-            <a href="#" class="list-group-item ">Company</a> 
+            <a href="Company" class="list-group-item ">Company</a> 
 
-            <a href="#" class="list-group-item">About Us</a> 
+            <a href="C_AboutUs" class="list-group-item">About Us</a> 
 
-            <a href="#" class="list-group-item">Contact Us</a> 
+            <a href="C_ContactUs" class="list-group-item">Contact Us</a> 
 
-            <a href="#" class="list-group-item">Support</a> 
+            <a href="C_Support" class="list-group-item">Support</a> 
 
-            <a href="#" class="list-group-item active">Customer Information Center</a> 
+            <a href="C_CIC" class="list-group-item active">Customer Information Center</a> 
 	
 	    </div> 
 

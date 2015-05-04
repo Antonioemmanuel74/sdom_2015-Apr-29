@@ -59,7 +59,7 @@ padding: 0px;
 #nav a:hover {
  background: #778866;
   color: #115511;
- 
+ width: 100%;
 }
 
 
@@ -317,8 +317,8 @@ height: 6.8em;
 }
 #foot{
      width: 100%;
-     height:11cm;
-     background-image:url(images/footer1.jpg);
+     height:11cm;;
+     background-image:url(images/footer_2.jpg);
      font-size: 12pt;
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -369,7 +369,140 @@ height: 6.8em;
     margin-bottom: 0cm;
     margin-top: 1cm;
 }
-#fill_1{
-    height:100cm;
+.logo{
+    background-image:url(images/logo.png);
+      height: 4cm;
+      width:6cm;
+      background-repeat: no-repeat;
+      background-size: contain;
+    
+}
+.soul{
+      background-image:url(images/solution.gif);
+      height: 3.8cm;
+      width:9cm;
+      background-repeat: no-repeat;
+      background-size: contain;
+    
+}
+#icon{
+    width:4cm;
+    height:4cm;
+    background-color: grey;
+    background-image:url(images/icon5.png);
+    background-repeat: no-repeat;
+      background-size: contain;
+}
+#icon2{
+    width:4cm;
+    height:4cm;
+    background-color: white;
+    background-image:url(images/sec2.jpg);
+    background-repeat: no-repeat;
+      background-size: contain;
+}
+#icon3{
+    width:4cm;
+    height:4cm;
+    background-color: grey;
+    background-image:url(images/icon1.png);
+    background-repeat: no-repeat;
+      background-size: contain;
+}
+#icon4{
+    width:4cm;
+    height:4cm;
+    background-color: grey;
+    background-image:url(images/icon2.png);
+    background-repeat: no-repeat;
+      background-size: contain;
+}
+#icon5{
+    width:4cm;
+    height:4cm;
+    background-color: grey;
+    background-image:url(images/icon3.png);
+    background-repeat: no-repeat;
+      background-size: contain;
+}
+#record{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/records.jpg);
+    background-repeat: no-repeat;
+      background-size: cover;
+        
+}
+#finance{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/finance.jpg);
+    background-repeat: no-repeat;
+      background-size: cover;
+        
+}
+#lawfirm{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/lawfirm.png);
+    background-repeat: no-repeat;
+      background-size: cover;
+        
+}
+#health{
+    
+
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/health.jpg);
+    background-repeat: no-repeat;
+      background-size: cover;
+        
+
+}
+#manufacture{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/manufacture.jpg);
+    background-repeat: no-repeat;
+      background-size: cover;
+    
+    
+}
+
+#industry{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/industry.png);
+    background-repeat: no-repeat;
+      background-size: cover;
+    
+    
+}
+#sme{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/industry.png);
+    background-repeat: no-repeat;
+      background-size: cover;
+    
+    
+}
+#shereding{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/industry.png);
+    background-repeat: no-repeat;
+      background-size: cover;
+    
+    
+}
+#recordstorage{
+    margin-top:0.4cm;
+    height:10cm;
+    background-image:url(images/industry.png);
+    background-repeat: no-repeat;
+      background-size: cover;
+    
     
 }
