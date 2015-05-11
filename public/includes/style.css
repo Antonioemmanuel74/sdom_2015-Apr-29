@@ -482,7 +482,7 @@ height: 6.8em;
 #sme{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/sme.gif);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -491,7 +491,7 @@ height: 6.8em;
 #shereding{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/shredding.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -500,7 +500,7 @@ height: 6.8em;
 #recordstorage{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/recordss.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -509,18 +509,18 @@ height: 6.8em;
 #digitalconv{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/digital.jpg);
     background-repeat: no-repeat;
-      background-size: cover;
+      background-size: contain;
     
     
 }
 #backup{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/backup.jpg);
     background-repeat: no-repeat;
-      background-size: cover;
+      background-size: contain;
     
     
 }
@@ -528,7 +528,7 @@ height: 6.8em;
 #business{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/buisness.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -538,7 +538,7 @@ height: 6.8em;
 {
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/procurement.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -557,7 +557,7 @@ height: 6.8em;
 #marketing{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/market.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -567,7 +567,7 @@ height: 6.8em;
 #legal{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/legal.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -577,7 +577,7 @@ height: 6.8em;
 #human{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/hr.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -587,7 +587,7 @@ height: 6.8em;
 #account{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/account.jpg);
     background-repeat: no-repeat;
       background-size: cover;
     
@@ -595,10 +595,10 @@ height: 6.8em;
 
 #operation{
     margin-top:0.4cm;
-    height:10cm;
-    background-image:url(images/industry.png);
+    height:9cm;
+    background-image:url(images/business.gif);
     background-repeat: no-repeat;
-      background-size: cover;
+      background-size: auto;
     
     
 }
@@ -676,9 +676,9 @@ height: 6.8em;
 #construction{
     margin-top:0.4cm;
     height:10cm;
-    background-image:url(images/industry.png);
+    background-image:url(images/const.jpg);
     background-repeat: no-repeat;
-      background-size: cover;
+    background-size: cover;
     
     
 }
@@ -741,42 +741,3 @@ height: 6.8em;
     
 }
 
-#construction{
-    margin-top:0.4cm;
-    height:10cm;
-    background-image:url(images/industry.png);
-    background-repeat: no-repeat;
-      background-size: cover;
-    
-    
-}
-
-#construction{
-    margin-top:0.4cm;
-    height:10cm;
-    background-image:url(images/industry.png);
-    background-repeat: no-repeat;
-      background-size: cover;
-    
-    
-}
-
-#construction{
-    margin-top:0.4cm;
-    height:10cm;
-    background-image:url(images/industry.png);
-    background-repeat: no-repeat;
-      background-size: cover;
-    
-    
-}
-
-#construction{
-    margin-top:0.4cm;
-    height:10cm;
-    background-image:url(images/industry.png);
-    background-repeat: no-repeat;
-      background-size: cover;
-    
-    
-}

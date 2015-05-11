@@ -14,8 +14,7 @@
 <div class="row">
 <div class="col-md-9">
 <div class="jumbotron" id="backup">
-    <h1>IMG</h1> 
-    <p> image holder</p> 
+   
   </div>
     <p>about the company</p>
 	<p>about the company</p>
