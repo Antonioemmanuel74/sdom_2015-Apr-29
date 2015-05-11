@@ -17,16 +17,12 @@
             			
             			</div>
             			<div class="whiteLine"></div>
-						<div class="legalLinks">
-            				<a href="#" class="legalLink">Privacy</a>
-            				<a href="#" class="legalLink">Terms of Use</a>
-            			</div>
+	    			</div>
             			
                             
-                        
-            		<div class="tallRow mobileHide"></div>
+    		<div class="tallRow mobileHide"></div>
             		<div class="copyrights" style="width:10cm;">
-            			<p>2015 SODM</p>
+            			<p>&#169; 2015 SODM</p>
             		</div>
             		<div class="tallRow mobileHide"></div>
             	</div>
@@ -39,7 +35,7 @@
                 				
                                                 
 <li ><a href="C_CIC">Customer Support</a></li>
-<li style="color:black;">phone number</li>
+<li style="color:black;">+234 1 567 8903</li>
 <li ><a href="C_CIC">Customer Information Center</a></li>
 <li ><a href="support">Support</a></li>
 <li ><a href="#"></a></li>

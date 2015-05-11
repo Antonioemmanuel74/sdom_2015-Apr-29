@@ -15,9 +15,8 @@
 <div class="container" >
 <div class="row">
 <div class="col-md-9">
-<div class="jumbotron" style="margin-top:0.4cm; height:10cm;">
-    <h1>IMG</h1> 
-    <p> image holder</p> 
+<div class="jumbotron" id="support">
+   
   </div>
     <p>about the company</p>
 	<p>about the company</p>

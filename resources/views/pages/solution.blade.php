@@ -8,7 +8,7 @@
 <body>
 @include('include.header')
 <!-- End header -->
-<div class="container" id="soln" >
+<div class="container"  >
     <div class="container"  style="margin-bottom:0cm;"> 
 
       <div class="row row-offcanvas row-offcanvas-right"> 
@@ -21,11 +21,7 @@
 
           </p> 
 
-          <div class="jumbotron" style="margin-top:0.4cm; height:10cm;">
-
-            <h1>Hello, world!</h1> 
-
-            <p>A background-image sits here.</p> 
+          <div class="jumbotron" id="soln"">
 
           </div> 
 	    <h3>Industry</h3>

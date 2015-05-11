@@ -75,28 +75,28 @@
     <div class="col-sm-4">
        <div class="bar"></div>
         <a href="#"><h2>Why Choose Us</h2></a>
-        <div class=""> <iframe width="380" height="150"
+        <div class=""> <iframe width="380" height="200"
 src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1">
 </iframe></div>
        <p class="mar">Our service is truly personal because we combine our small business attitude with the stability of a major corporate company, meaning that every customer that requires our secure storage is treated as an individual.
     </p>
-       <p><a href="#">Read More</a></p>
+       <p><a href="service">Read More</a></p>
     </div>
     
     <div class="col-sm-4">
       <div class="bar"></div>
         
         <div class="max_tab">
-       <a href="#"><div class="min_tab" >
+       <a href="SME_RecordStorage"><div class="min_tab" >
         <h3 class="w_min_tab">Data Storage</h3>
             <p>Organisations cannot underestimate the importance of secure Document Management and data management procedures.</p>
        </div></a>
         
-       <a href="#">  <div class="min_tab" >
+       <a href="SME_Shereding">  <div class="min_tab" >
         <h3 class="w_min_tab">Secure Shredding</h3>
             <p>With Square-one Secure Shredding services, you wll be able to safely and cost-effectively destroy unnecessary paper-based documents.</p>
        </div></a>
-        <a href="#"> <div class="min_tab" >
+        <a href="SME_DataBackup"> <div class="min_tab" >
         <h3 class="w_min_tab">Data Backup</h3>
             <p>Seperate your data from disaster with offsite tape vaulting and cloud backup services.</p>
        </div> </a>
